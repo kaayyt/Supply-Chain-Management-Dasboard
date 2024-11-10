@@ -1,7 +1,4 @@
-Here’s a well-structured README file for your GitHub repository, outlining the project’s objective, dataset features, tools, and steps for analysis and dashboard creation in a clear, segmented format.
-
 ---
-
 # Supply-Chain-Management-Dashboard
 
 **Analyze Product Performance and Supply Chain Efficiency**
